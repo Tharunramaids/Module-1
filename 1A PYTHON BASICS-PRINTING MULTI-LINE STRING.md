@@ -10,25 +10,21 @@ To create a Python program to print the string in multiple lines using triple qu
 4. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
+```
+# Reg.No- 212224230289
+# Name- THARUN R
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
+a=input()
+if(a=='A' or a=='E' or a=='I' or a=='O' or  a=='U'):
+      print("The given character is a vowel")
+else:
+    print("The given character is NOT a vowel")
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/751259ce-1f4e-4759-91b9-a30a8dbaa0e8)
+
 ## RESULT
 
+Thus the Python program to check whether the given character is a vowel or not using if..else statement was implemented successfully.
