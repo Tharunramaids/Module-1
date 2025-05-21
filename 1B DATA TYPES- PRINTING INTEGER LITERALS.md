@@ -11,19 +11,16 @@ To write a Python program to print the following integer literals: 123, 456, 789
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No- 212224230289
+# Name- THARUN R
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+a=eval(input())
+print("Tuple={}".format(tuple(a)))
 
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/bb89fcee-a0cc-4ccb-9944-54ca17d0d308)
+
 
 ## RESULT
+Thus the conversion of List into a Tuple is implemented successfully.
